@@ -19,6 +19,9 @@ Markdown is a markup language, created in 2004 by John Gruber, that allows text 
 ### Guide to Podcasting
 This is a relatively long article lead by Vanessa Quirk giving an introduction guide to podcasts. The article begins with a brief overview of the history of podcasts, its methodology, why podcasts matter, where we are at today, revenue streams, case studies, operating philosophies, unresolved issues, followed by a conclusion to the report and a post-script. This article goes into detail about podcasts as they are now and why they matter to journalism. The podcast, Serial, which we listened to as an assignment is mentioned for its importance to the industry. Serial, at the time, is the highest grossing podcast of all time reaching over one million downloads in only four weeks. The author then goes on the describe the importance of this milestone and how it affected other podcasts.  At the time of the article, December 2015, the author still believed that it was too early to declare any one podcasting company a success. 
 
+### Podcasting Timeline
+This is a timeline which shows the most important events in podcasting history up until 2015. It begins in March 1999 when the RSS feed was born. October 2005 through April 2007 was a very active time in podcasting history. June 2014 through November 2015 was the most active time in podcasting history up to date.  The most recent addition is a Podcast called The Message reaching number 1 on iTunes. This timeline shows the advancement of podcasts from its conception to relatively recent events.
+
 
 ## Quotes
 
@@ -40,3 +43,6 @@ Universial Podcasts:
 Premium Podcasts:  
 > These podcasts and networks seek to cultivate relationships with their audiences and create more “premium” experiences. While podcasts may be freely accessible in order to grow listenership, listeners are encouraged to support the content makers via direct donations or a subscription model. Panoply’s Andy Bowers noted that, in his experience, podcast listeners are among the most likely to convert into subscribers. Subscribers are given preferential treatment in terms of content, merchandise, access to events, etc. “The majority of people who join [Slate Plus] are podcast listeners. They get VIP tickets to live shows and come to meet the hosts. They’re their hardcore fans,” he said.
 
+
+### Podcasting Timeline
+> "This American Life" launches a spin-off called "Serial." Four weeks later, it is averaging one million downloads. 
