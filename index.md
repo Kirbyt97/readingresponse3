@@ -13,6 +13,9 @@ The purpose of this article is to inform readers as to why Microsoft Word may no
 ### Why Microsoft Word Must Die
 This is a blog post-turned discussion board explaining the conception of Microsoft Word and its programming errors. Stross points out that there was, in fact, a time before Word where several companies competed for the market, which lead to greater innovation in the field. Then Steve Jobs asked Bill Gates to create software for Macintosh computers. The author believes that one fatal flaw in the creation of this software was deciding to use both control codes and hierarchical style sheets, which the he points out are incompatible. Then a brief explanation of how Microsoft achieved monopoly in this field. Their strategy was to acquire smaller companies that created things like, spell checkers, grammar checkers, among others, and integrate those programs into Word which stopped competition and, therefore, innovation. 
 
+### Markdown: Markup that's Downright Simple
+Markdown is a markup language, created in 2004 by John Gruber, that allows text to be read in several formats like HTML and XHTML. Doctor Evia explains how Markdown can be used to create ready to use documents with less lines of commands when compared to other systems. A section of this article emphasizes Markdowns deliberately simple design which consultant, Don Day agrees with. Evia then demonstrates a line of code in HTML and compares it to the much shorter and simpler Markdown version. However, Markdown is primarily for text content, not graphics which would need further processing. Both Day and Evia agree that plain text formatting is here to stay and that other companies will pick it up in the future. 
+
 
 
 
@@ -25,3 +28,9 @@ This is a blog post-turned discussion board explaining the conception of Microso
 > The reason I want Word to die is that until it does, it is unavoidable.
 
 > But one by one, Microsoft moved into each sector and built one of the competitors into Word, thereby killing the competition and stifling innovation. Microsoft killed the outline processor on Windows; stalled development of the grammar checking tool, stifled spelling checkers.
+
+### Markdown: Markup that's Downright Simple
+>“Markdown is for textual content. If an author is also in charge of graphic design, page layout, or multimodal content, then the Markdown text needs a second or even third layer of processing to be ready for end users,” says Evia. “Fortunately, there are many commercial and open source applications that take care of some of those steps, but there is frequently some heavy author work behind a final product that was built with pure Markdown.”
+
+
+
