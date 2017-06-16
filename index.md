@@ -46,3 +46,8 @@ Premium Podcasts:
 
 ### Podcasting Timeline
 > "This American Life" launches a spin-off called "Serial." Four weeks later, it is averaging one million downloads. 
+
+## Questions
+* If so many people see Microsoft Word as a flawed program, how did those people allow it to become the main text program in the industry at its conception?
+* Why are podcasts not as successful as other forms of media? Is it because they do not tend to appeal to the younger audience who uses the most technology in their day to day lives?
+* I noticed the timeline stops in 2015. What other notable events have happened in podcasting history in the past two years?
